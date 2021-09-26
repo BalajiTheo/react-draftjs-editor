@@ -1,0 +1,13 @@
+.wrapper{
+    border : '1px solid';
+    width: '400px';
+    background-color: green;
+    margin: '40px';
+
+}
+
+.editor-container{
+    border : '1px solid';
+    width: '400px';
+    background-color: green;
+}
